@@ -27,7 +27,7 @@
     "@hookform/resolvers": "^3.9.1",
     "@langchain/community": "^0.3.17",
     "@langchain/core": "^0.3.22",
-    "@prisma/client": "^6.0.0",
+    "@prisma/client": "^6.1.0",
     "@radix-ui/react-accordion": "^1.2.1",
     "@radix-ui/react-alert-dialog": "^1.1.2",
     "@radix-ui/react-aspect-ratio": "^1.1.0",
