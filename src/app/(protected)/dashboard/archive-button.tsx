@@ -40,7 +40,7 @@ const ArchiveButton = () => {
         }
       }}
     >
-      Archive
+       Archive
     </Button>
   );
 };

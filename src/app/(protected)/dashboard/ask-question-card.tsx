@@ -116,7 +116,7 @@ const AskQuestionCard = () => {
           <div className="h-3"></div>
           <CodeReferences filesReferences={filesReferences} />
           <Button type="button" onClick={() => setOpen(false)}>
-            Close
+             Close
           </Button>
         </DialogContent>
       </Dialog>

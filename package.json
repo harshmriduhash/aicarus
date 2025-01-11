@@ -27,7 +27,7 @@
     "@hookform/resolvers": "^3.9.1",
     "@langchain/community": "^0.3.17",
     "@langchain/core": "^0.3.22",
-    "@prisma/client": "^6.0.0",
+    "@prisma/client": "^6.1.0",
     "@radix-ui/react-accordion": "^1.2.1",
     "@radix-ui/react-alert-dialog": "^1.1.2",
     "@radix-ui/react-aspect-ratio": "^1.1.0",
@@ -105,7 +105,7 @@
     "postcss": "^8.4.39",
     "prettier": "^3.3.2",
     "prettier-plugin-tailwindcss": "^0.6.5",
-    "prisma": "^6.0.0",
+    "prisma": "^6.1.0",
     "tailwindcss": "^3.4.3",
     "typescript": "^5.5.3"
   },
